@@ -6,7 +6,7 @@
 
 # Hi there 👋  I'm Diego Martin
 
-🏢 I am currently working as a **Senior Full Stack Developer** at [Secret Source](https://www.secret-source.eu/)<br>
+🏢 I am currently working as a **Senior Full Stack Developer** at [Sysdig](https://sysdig.com/)<br>
 🎓 Studied **Computer Science** career at [ULPGC](https://www.ulpgc.es/)<br>
 🏡 Lives in **Canary Islands** <br>
 🌱 My focus **NodeJS** and **ReactJS** <br>
