@@ -38,7 +38,7 @@
 ## GitHub Stats 📈 
 
 <br>
-[![GitHub GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buenclima&theme=react)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=buenclima&theme=react" style="width: 100%;"/>
 <br>
 
 ## Activity Graph 📊 
