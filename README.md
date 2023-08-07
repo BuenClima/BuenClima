@@ -38,7 +38,7 @@
 ## GitHub Stats 📈 
 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BuenClima&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![BuenClima GitHub stats](https://github-readme-stats.vercel.app/api?username=BuenClima&theme=react)](https://github.com/BuenClima/github-readme-stats)
+[![GitHub GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buenclima&theme=react)](https://git.io/streak-stats)
 <br>
 
 ## Activity Graph 📊 
