@@ -18,7 +18,7 @@
 <br>
 
 ## Connect with me ☕
- [![@BuenClima](https://img.icons8.com/fluency/48/000000/linkedin.png "@BuenClima")](https://www.linkedin.com/in/diego-mart%C3%ADn-hern%C3%A1ndez-a41229170/) 
+ [![@BuenClima](https://img.icons8.com/fluency/48/000000/linkedin.png "@BuenClima")](https://www.linkedin.com/in/diegomartinhernandez/) 
 
 <br>
 
