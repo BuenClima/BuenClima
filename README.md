@@ -16,9 +16,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/BuenClima?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/BuenClima?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BuenClima.repoName)
 
 ## Connect with me ☕
-<div align="center">
- [![@BuenClima](https://img.icons8.com/fluency/48/000000/linkedin.png "@BuenClima")](https://www.linkedin.com/in/diegomartinhernandez/) 
-</div>
+[![@BuenClima](https://img.icons8.com/fluency/48/000000/linkedin.png "@BuenClima")](https://www.linkedin.com/in/diegomartinhernandez/) 
 
 ## My Stack 🧑‍💻
 
